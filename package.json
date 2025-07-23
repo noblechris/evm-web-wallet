@@ -1,0 +1,14 @@
+{
+  "name": "evm-web-wallet",
+  "version": "1.0.0",
+  "description": "A comprehensive EVM wallet for signing transactions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required for static HTML'",
+    "start": "vercel dev"
+  },
+  "keywords": ["ethereum", "wallet", "blockchain", "web3", "evm"],
+  "author": "Your Name",
+  "license": "MIT"
+}
